@@ -1,4 +1,4 @@
-##eng:
+# eng:
 here's the quick introduction to collections python module. it contains all classes, such as:
 
     1. ChainMap()
@@ -20,7 +20,7 @@ here's the quick introduction to collections python module. it contains all clas
     9. UserList()
 
 
-##rus:
+# rus:
 вот краткое введение в модуль Python для коллекций. он содержит все классы, такие как:
 
     1. ChainMap()
@@ -42,7 +42,7 @@ here's the quick introduction to collections python module. it contains all clas
     9. UserList()
 
 
-##uzb:
+# uzb:
 Bu yerda collections python modulining qisqa chuntirishi keltirilgan. Bu modulning bir necha class lari keltirilgan, masalan:
     1. ChainMap()
     
@@ -64,4 +64,4 @@ Bu yerda collections python modulining qisqa chuntirishi keltirilgan. Bu modulni
 
 
 
-DISCLAIMER: MAY BE IT'S NOT FULL. YOU CAN USE THIS FOR LEARN OR PRACTICE, MOSTLY, IT IS BENEFIT FOR MY GITHUB AND KNOWLEDGE.
+**DISCLAIMER: MAY BE IT'S NOT FULL. YOU CAN USE THIS FOR LEARN OR PRACTICE, MOSTLY, IT IS BENEFIT FOR MY GITHUB AND KNOWLEDGE.**
