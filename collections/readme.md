@@ -7,17 +7,17 @@ here's the quick introduction to collections python module. it contains all clas
     
     3. Counter()
     
-    4. defaultdict()
+    #4. defaultdict()
     
-    5. namedtuple()
+    #5. namedtuple()
     
-    6. OrderedDict()
+    #6. OrderedDict()
     
-    7. UserString()
+    #7. UserString()
     
-    8. UserDict()
+    #8. UserDict()
     
-    9. UserList()
+    #9. UserList()
 
 
 # rus:
@@ -29,17 +29,17 @@ here's the quick introduction to collections python module. it contains all clas
     
     3. Counter()
     
-    4. defaultdict()
+    #4. defaultdict()
     
-    5. namedtuple()
+    #5. namedtuple()
     
-    6. OrderedDict()
+    #6. OrderedDict()
     
-    7. UserString()
+    #7. UserString()
     
-    8. UserDict()
+    #8. UserDict()
     
-    9. UserList()
+    #9. UserList()
 
 
 # uzb:
@@ -50,17 +50,17 @@ Bu yerda collections python modulining qisqa chuntirishi keltirilgan. Bu modulni
     
     3. Counter()
     
-    4. defaultdict()
+    #4. defaultdict()
     
-    5. namedtuple()
+    #5. namedtuple()
     
-    6. OrderedDict()
+    #6. OrderedDict()
     
-    7. UserString()
+    #7. UserString()
     
-    8. UserDict()
+    #8. UserDict()
     
-    9. UserList()
+    #9. UserList()
 
 
 
